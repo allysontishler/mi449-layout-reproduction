@@ -43,6 +43,10 @@ nav ul li a {
     margin-top: 50px;
 }
 
+.left-column h1 {
+    padding-bottom: 40px;
+}
+
 .right-column {
     flex: 1;
     padding-left: 35px;
@@ -56,11 +60,13 @@ nav ul li a {
 
 .main-image {
     width: 100px;
+    padding-bottom: 40px;
 }
 
 .tagline {
     color: #57b12d;
     width: 500px;
+    margin-left: 20px;
 }
 
 .news-articles {
