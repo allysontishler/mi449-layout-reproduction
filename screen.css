@@ -77,8 +77,16 @@ nav ul li a {
 }
 
 .column {
-    width: 50%; /* Two columns */
+    width: 100%; 
     padding: 10px 0;
+}
+
+.column h3 {
+    font-size: 1em;
+}
+
+.subheader {
+    font-size: 0.5em;
 }
 
 .subheader {
