@@ -12,6 +12,7 @@ body {
 .logo {
     margin-top: 20px;
     margin-left: 20px;
+    size: 25%;
 }
 
 .navigation {
@@ -42,7 +43,7 @@ body {
 }
 
 .right-content {
-    flex: 1; /* Take remaining space */
+    width: 50%; /* Take remaining space */
     background-color: #C7DFC5;
     padding: 50px 20px;
 }
