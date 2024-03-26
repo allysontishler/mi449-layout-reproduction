@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 .container {
@@ -42,7 +42,7 @@ body {
 }
 
 .right-content {
-    width: 50%;
+    flex: 1; /* Take remaining space */
     background-color: #C7DFC5;
     padding: 50px 20px;
 }
