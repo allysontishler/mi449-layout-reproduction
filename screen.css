@@ -12,7 +12,11 @@ body {
 .logo {
     margin-top: 20px;
     margin-left: 20px;
-    size: 5%;
+}
+
+.logo img {
+    width: 25%;
+    height: auto;
 }
 
 .navigation {
