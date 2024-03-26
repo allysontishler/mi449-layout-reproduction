@@ -60,7 +60,8 @@ nav ul li a {
 }
 
 .main-image {
-    width: 100px;
+    width: 200px;
+    height: auto;
 }
 
 .tagline {
