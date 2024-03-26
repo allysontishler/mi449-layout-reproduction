@@ -12,6 +12,10 @@ body {
     padding: 20px;
 }
 
+.container img {
+    size: 15%;
+}
+
 header {
     display: flex;
     justify-content: space-between;
