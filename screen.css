@@ -60,13 +60,13 @@ nav ul li a {
 
 .main-image {
     width: 100px;
-    padding-bottom: 40px;
 }
 
 .tagline {
     color: #57b12d;
     width: 500px;
-    margin-left: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
 }
 
 .news-articles {
